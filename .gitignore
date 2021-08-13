@@ -4,3 +4,4 @@ req-images
 config
 cmd commands
 mongodb.js
+appid.txt
