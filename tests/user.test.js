@@ -96,19 +96,19 @@ test('Should upload avatar image', async ()=>{
         .attach('avatar','tests/fixtures/profile-pic.jpg')
         .expect(200);
     const user = await User.findById(user1Id)
-    expect(user.avatar).toEqual(expect.any(Buffer))// objects cannot be compared firectly { } === { } this is worng false
+    expect(user.avatar).toEqual(expect.any(Buffer))// objects cannot be compared firectly { } === { } this is wrong false
 })
 
 test('Should update valid user fields', async ()=>{
     await request(app)
         .patch('/users/me')
         .send({
-            name:'xxxo'
+            name:'xt'
         })
         .set('Authorization',`Bearer ${user1.tokens[0].token}`)
         .expect(200);
     const user = await User.findById(user1Id);
-    expect(user.name).toEqual('xxxo')
+    expect(user.name).toEqual('xt')
 })
 
 test('Should not update invalid user fields', async ()=>{
