@@ -56,14 +56,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Task Manager API][product-screenshot]]()
-
 * Taskify facilitates users to login and perform CRUD operations on their profile and tasks added by them.
 * Utilized Multer library for uploading and Sharp library for preprocessing the user profile avatar.
 * Configured JWT for authentication token generation and Bcrypt library for password encryption.
 * For Database, MongoDB is used with Mongoose client to store data on an online MongoDB Atlas server.
 * Integrated SendGrid Email API for sending subscription and related emails to user's registered email-id.
 * Created an automated unit testing suite using the Jest framework and supertest.[Github](https://github.com/rishabhpurohit/TaskManager-API) project repo.
+
+
 
 ### Built With
 * [node.js](https://nodejs.org/en/)
