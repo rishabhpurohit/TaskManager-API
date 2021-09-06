@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Rishabh Purohit](https://github.com/rishabhpurohit) - rishabh.purohit123456789@gmail.com
+[Rishabh Purohit](https://github.com/rishabhpurohit) - rishabh.purohit123456789@gmail.com
 
 Project Link: [TaskManager-API](https://github.com/rishabhpurohit/TaskManager-API)
 
