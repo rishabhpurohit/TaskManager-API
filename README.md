@@ -11,9 +11,10 @@
 -->
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 <!-- [![Forks][forks-shield]][forks-url] -->
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/rishabhpurohit/TaskManager-API/issues]
-[![MIT License][license-shield]][https://github.com/rishabhpurohit/TaskManager-API/blob/main/LICENSE.md]
+
+[![Stargazers][stars-shield]][stars-url]]
+[![Issues][issues-shield]][https://github.com/rishabhpurohit/TaskManager-API/issues]]
+[![MIT License][license-shield]][https://github.com/rishabhpurohit/TaskManager-API/blob/main/LICENSE.md]]
 
 
 
