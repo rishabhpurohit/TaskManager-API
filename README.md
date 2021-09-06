@@ -15,7 +15,7 @@
     <a href="https://github.com/rishabhpurohit/TaskManager-API/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rishabhpurohit/TaskManager-API/blob/main/README.md">View Demo</a>
+    <a href="https://github.com/rishabhpurohit/TaskManager-API/blob/main/README.md#usage">View Demo</a>
     ·
     <a href="https://github.com/rishabhpurohit/TaskManager-API/issues">Report Bug</a>
     ·
