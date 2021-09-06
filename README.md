@@ -10,7 +10,7 @@
   <h3 align="center">TASKIFY - Task Manager API</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Taskify facilitates uses to manage tasks according to their deadlines.
     <br />
     <a href="https://github.com/rishabhpurohit/TaskManager-API/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
