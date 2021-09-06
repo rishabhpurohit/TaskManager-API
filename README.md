@@ -61,13 +61,13 @@
 * Configured JWT for authentication token generation and Bcrypt library for password encryption.
 * For Database, MongoDB is used with Mongoose client to store data on an online MongoDB Atlas server.
 * Integrated SendGrid Email API for sending subscription and related emails to user's registered email-id.
-* Created an automated unit testing suite using the Jest framework and supertest.[Github](https://github.com/rishabhpurohit/TaskManager-API) project repo.
+* Created an automated unit testing suite using the Jest framework and supertest.
 
 
 
 ### Built With
-* [node.js](https://nodejs.org/en/)
-* [express.js](https://expressjs.com/)
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 
 
@@ -75,16 +75,19 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is how to set up your project locally.
+To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
+* Postman
+* VSCode
+* MongoDB Compass
+
 
 ### Installation
 
@@ -106,16 +109,22 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Using [POSTMAN](https://www.postman.com/)
+* Download POSTMAN 
+* Import the postman collection from [here](https://github.com/rishabhpurohit/TaskManager-API/blob/main/Postman/TaskManager.postman_collection.json)
+_For more examples, please refer to the [Documentation](https://github.com/rishabhpurohit/TaskManager-API/edit/main/README.md)_
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
+### Endpoints and Routes
+*
+*
+*
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/rishabhpurohit/TaskManager-API/issues) for a list of proposed features (and known issues).
+See the [Open Issues](https://github.com/rishabhpurohit/TaskManager-API/issues) for a list of proposed features (and known issues).
 
 
 
@@ -150,8 +159,8 @@ Project Link: [TaskManager-API](https://github.com/rishabhpurohit/TaskManager-AP
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* []()
-* []()
-* []()
-* []()
-
+* [Postman](https://www.postman.com/)
+* [JWT](https://www.npmjs.com/package/jsonwebtoken)
+* [jest](https://www.npmjs.com/package/jest)
+* [multer](https://www.npmjs.com/package/multer)
+* [sharp](https://www.npmjs.com/package/sharp)
