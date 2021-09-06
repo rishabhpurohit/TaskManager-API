@@ -104,6 +104,8 @@ To get a local copy up and running, follow these simple steps.
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
+5. Run `npm test` in the project directory to run all the test cases.
+   
 
 
 <!-- USAGE EXAMPLES -->
@@ -116,9 +118,20 @@ _For more examples, please refer to the [Documentation](https://github.com/risha
 
 
 ### Endpoints and Routes
-*
-*
-*
+* POST - Create User
+* POST - Login user
+* POST - Logout User
+* POST - Logout from all devices
+* POST - Create Task
+* POST - Upload Avatar
+* GET - Read profile
+* GET - Read user
+* GET - Read tasks
+* GET - Read task
+* PATCH - Update user
+* PATCH - Update task
+* DEL - Delete user
+* DEL - Delete Avatar
 
 
 <!-- ROADMAP -->
