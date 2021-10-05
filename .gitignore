@@ -1,7 +1,8 @@
 node_modules
 playground
 req-images
-config
+config/dev.env
+config/test.env
 cmd commands
 mongodb.js
 appid.txt
