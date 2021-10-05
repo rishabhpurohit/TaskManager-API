@@ -13,7 +13,7 @@ beforeEach(setupDatabase)
 
 // })
 
-test('Should sing up a new user',async ()=>{
+test('Should signup a new user',async ()=>{
     const response = await request(app).post('/users').send({
         name:'rp',
         email:'dem77@gmail.com',
